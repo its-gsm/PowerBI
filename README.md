@@ -1,6 +1,6 @@
 # Customer Data Segmentation Analysis
 
-### Dashboard Link: Power BI Dashboard Link
+### Dashboard Link: https://app.powerbi.com/links/FXXkIZytyi?ctid=b29282ab-1dfd-4fb3-9599-e0bb2f469af8&pbi_source=linkShare
 
 ## Problem Statement
 
